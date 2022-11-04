@@ -7,9 +7,9 @@ Project is pending wait for 2 day 🐰🦋
 # Install Requests 
      pip2 install -r requirements.txt
 
-## IDz Collection Proof 👇
+## REPORT Collection Proof 👇
 <p align="center">
-<img src='sx/Screenshot_20220819-145308.png' style="height:500px;width:300px;" >
+<img src='sx/Screenshot_20221104-031845.png' style="height:500px;width:300px;" >
 </p>
 
 <p align="center">
