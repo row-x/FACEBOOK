@@ -5,9 +5,11 @@ Project is pending wait for 2 day 🐰🦋
 
 # Command Install 👇
      git pull
-     git clone
+     git clone https://github.com/NAHID-AFRIDY/FACEBOOK
+     cd FACEBOOK
+     python2 run.py
 
-# Install Requests 
+# Install Requests ✅ Must Be Install this 👇
      pip2 install -r requirements.txt
 
 ## REPORT Collection Proof 👇
