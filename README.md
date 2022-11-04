@@ -13,9 +13,9 @@ Project is pending wait for 2 day 🐰🦋
 </p>
 
 <p align="center">
-<img src='sx/Screenshot_20220822-200256.png' style="height:500px;width:300px;" >
+<img src='sx/Screenshot_20221104-031857.png' style="height:500px;width:300px;" >
 </p>
 
 <p align="center">
-<img src='sx/Screenshot_20220823-203646.png' style="height:500px;width:300px;" >
+<img src='sx/Screenshot_20221104-114322.png' style="height:500px;width:300px;" >
 </p>
