@@ -1,5 +1,5 @@
 import os
-Print (" [bot] Type ")
+print (" [bot] Type ")
 nahid = input("Choice /•/ ")
 
 if nahid in ['bot']:
