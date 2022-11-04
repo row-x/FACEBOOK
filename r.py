@@ -1,0 +1,3 @@
+import king
+
+king.login()
